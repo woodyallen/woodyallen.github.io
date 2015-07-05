@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Otro tipo más que está todo el día por navegando por internet!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Practicando el blogging en github desde Málaga.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emiliux@gmail.com](mailto:emiliux@gmail.com)
