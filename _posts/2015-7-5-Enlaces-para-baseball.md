@@ -1,5 +1,5 @@
 ---
-layouts: posts
+layout: post
 title: Algunos blogs de baseball
 ---
 
