@@ -23,7 +23,7 @@ Ademas en la tarjeta SD hay que crear en la carpeta BOOT un archivo con nombre s
 
 Dos enlaces mas para la configuración de la WIFI en la ZERO
 
-http://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address/37921#37921
+[How do i setup networking wifi static ip address](http://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address/37921#37921)
 
-http://caffinc.github.io/2016/12/raspberry-pi-3-headless/
+[Raspberry sin monitor](http://caffinc.github.io/2016/12/raspberry-pi-3-headless/)
 
