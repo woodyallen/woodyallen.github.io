@@ -5,7 +5,7 @@ title: Raspberry Pi Zero W
 
 He adquirido recientemente la nueva Raspberry Pi Zero, esta nueva versión W, tiene Wifi y Bluetooth y todo por 10€, aquí las características.
 
-https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/
+[https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/]
 
 En casa tengo una Raspberry Pi model 3, que es un modelo más potente y lo uso junto al Apple TV mediante Plex como centro multimedia, lo que no tengo en mis canales de streaming Netflix y HBO que religiosamente pago, lo tengo en mi Raspberry 3.
 
